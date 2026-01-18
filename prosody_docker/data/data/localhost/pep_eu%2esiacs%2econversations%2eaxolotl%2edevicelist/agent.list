@@ -1,0 +1,17 @@
+item({
+	{
+		["attr"] = {
+			["xmlns"] = "eu.siacs.conversations.axolotl";
+			["id"] = "1063897949";
+		};
+		["name"] = "device";
+	};
+	["when"] = 1683758599;
+	["key"] = "fa971bcd-35c8-49f0-a56e-70de5d9c9131";
+	["attr"] = {
+		["xmlns"] = "eu.siacs.conversations.axolotl";
+		["stamp_legacy"] = "20230510T22:43:19";
+		["stamp"] = "2023-05-10T22:43:19Z";
+	};
+	["name"] = "list";
+});

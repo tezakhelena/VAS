@@ -1,0 +1,20 @@
+return {
+	["eu.siacs.conversations.axolotl.devicelist"] = {
+		["name"] = "eu.siacs.conversations.axolotl.devicelist";
+		["subscribers"] = {};
+		["affiliations"] = {};
+		["config"] = {};
+	};
+	["http://jabber.org/protocol/tune"] = {
+		["config"] = {};
+		["subscribers"] = {};
+		["affiliations"] = {};
+		["name"] = "http://jabber.org/protocol/tune";
+	};
+	["eu.siacs.conversations.axolotl.bundles:584116560"] = {
+		["config"] = {};
+		["subscribers"] = {};
+		["affiliations"] = {};
+		["name"] = "eu.siacs.conversations.axolotl.bundles:584116560";
+	};
+};

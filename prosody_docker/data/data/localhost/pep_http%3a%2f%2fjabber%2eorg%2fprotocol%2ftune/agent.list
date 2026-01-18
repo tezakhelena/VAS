@@ -1,0 +1,10 @@
+item({
+	["when"] = 1683758599;
+	["key"] = "e26d3c45-13c3-4e3f-a487-43d7defa4908";
+	["attr"] = {
+		["xmlns"] = "http://jabber.org/protocol/tune";
+		["stamp_legacy"] = "20230510T22:43:19";
+		["stamp"] = "2023-05-10T22:43:19Z";
+	};
+	["name"] = "tune";
+});

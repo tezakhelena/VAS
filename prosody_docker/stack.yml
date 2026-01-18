@@ -1,0 +1,16 @@
+services:
+  prosody:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    platform: linux/amd64
+    stdin_open: true
+    tty: true
+    entrypoint: /bin/sh
+    volumes:
+      - ./data/configuration:/etc/prosody
+      - ./logs:/var/log/prosody
+      - ./data/data:/var/lib/prosody
+    ports:
+      - 5222:5222
+      - 5223:5223
