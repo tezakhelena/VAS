@@ -1,5 +1,3 @@
-# VAS
-Projekt iz kolegija višeagentni sustavi
 
 # VAS
 Projekt iz kolegija višeagentni sustavi
